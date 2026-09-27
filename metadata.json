@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Jewelry | Minimalist Fine Jewelry",
+  "description": "Glow different, stay Lumina. Handcrafted 18k gold vermeil, sterling silver, and freshwater pearl minimalist jewelry with nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
